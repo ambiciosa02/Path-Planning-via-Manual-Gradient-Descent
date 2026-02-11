@@ -23,10 +23,4 @@ Visual Simulation: Watch the final path curve perfectly around the restricted ar
 
 Customizable: Easily change the start point, the goal, or the "danger" threshold in the code.
 
-🚀 Getting Started
-1. Requirements
-You will need Python installed along with two common libraries:
 
-NumPy (for handling coordinates)
-
-Matplotlib (for drawing the graph)
